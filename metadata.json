@@ -1,0 +1,6 @@
+{
+  "name": "GLP Aircon",
+  "description": "GLP-09PORT IR Blaster logic controller with climate automation, stuck sensor reset tools, and schedule overrides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
